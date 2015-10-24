@@ -1,0 +1,1 @@
+The directory Parkosz1907.sfdir contains a quick and dirty replika in the FontForge format of the font used in 1907 edition by Łoś (http://ebuw.uw.edu.pl/publication/238219) of the Parkosz's treatease.
