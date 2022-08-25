@@ -3,3 +3,5 @@ The directory Parkosz1907.sfdir contains a quick and dirty replika in the FontFo
 The important aspect of this work is the proposed Unicode assignment for Parkosz's letters.
 
 Previously located at https://bitbucket.org/jsbien/parkosz-font.
+
+Obsoleted by Junicode: https://github.com/psb1558/Junicode-font/issues/27.
